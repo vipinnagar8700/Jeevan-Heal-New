@@ -1,0 +1,593 @@
+body{
+   
+    
+    font-family: Arial, Helvetica, sans-serif;
+    
+   
+}
+.btn2 button a{
+    color: #24235c;
+    border: none;
+    outline: none;
+    color: #fff;
+
+   
+}
+.btn2 button{
+    background-color: #24235c;
+}
+.download span{
+    color: #24235c;
+}
+a{
+    cursor: pointer !important;
+    text-decoration: none;
+    color:  rgb(120 155 74);
+}
+
+a:hover{
+    color: #4F5856;
+}
+
+li , ul ,p{
+    margin: 0;
+    padding: 0;
+    list-style:none;
+}
+h4{
+    font-size: 30px;
+    margin: 0;
+}
+h3{
+    font-size: 35px;
+    margin: 0;
+}
+
+button#btncol{
+    background-color:#3273ae !important;
+}
+a.nav-link.p-0.text-secondary {
+    color: #fff !important;
+}
+.navbar{
+    background-color: #0d0d29;
+}
+/* .main-header{
+    width: 100%;
+    padding: 0 90px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+   
+} */
+.main-header p{
+    color: black;
+    font-weight: bolder;
+    
+    
+}
+.main-input input{
+    width: 250px;
+    height: 40px;
+}
+.main-header h3{
+    
+    font-weight: bolder;
+    
+}
+.btn button{
+    border: none;
+    color: #fff;
+
+}
+.footer ul li a{
+    text-decoration: none;
+    color: #fff;
+    
+}
+
+
+.s-footer{
+    width: 100%;
+    background: linear-gradient(to right, #0d0d29, rgb(57, 57, 119));
+    /* background-color: #0d0d29; */
+    
+  
+}
+.footer p{
+    color: #fff;
+    font-weight: bold;
+    padding-top: 30px;
+    
+}
+.btn button{
+    background-color: #24235c;
+    
+}
+.btn input{
+    height: 40px;
+    width: 300px;
+}
+.flex-img{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.footer{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+/* .d-app{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+} */
+
+
+
+/* section222222222 */
+
+.video{
+    width: 100%;
+    
+    /* background-image: url('../images/imagesv.jpg'); */
+    background-size: cover;
+    background-position: center;
+    
+    
+}
+.health-issue{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.mini-banner{
+    width: 70%;
+   
+    /* background-image: url('../images/mini-banner.jpg');
+   */
+    background-position: center;
+    background-size: cover;
+  
+} 
+.mini-banner1{
+    width: 70%;
+    
+    /* background-image: url('../images/mini-banner2.jpg'); */
+    background-position: center;
+    background-size: cover;
+  
+} 
+.main-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    
+}
+
+.user{
+    margin-bottom:30px ;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.user .user1{
+   
+   text-align: center;
+   margin-left: 5px;
+   padding: 10px;
+   margin-top: 10px;
+
+}
+.main-user{
+    box-shadow: 1px 1px 1px lightgray;
+}
+.work{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    color: #fff;
+    text-align: center;
+    
+}
+.work1{
+    margin: 20px 0px 20px 10px;
+}
+.benefit{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+    gap:50px;
+
+}
+.second-user{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;
+    gap:50px;
+
+}
+.faq{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: start;
+    gap:50px;
+    margin-bottom: 50px;
+
+}
+.specilization{
+    gap: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+}
+.specilization{
+    gap: 30px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    
+
+
+}
+
+.specilization2{
+    gap: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.d-apps img{
+    width: 40%;
+}
+.last p{
+    font-size: 13px;
+    line-height: 15px;
+}
+
+.user-2 img{
+    border-radius: 50%;
+}
+.medicines-banner{
+    background-color: rgb(149, 187, 202);
+}
+.medicines-banner2{
+    background-color: rgb(185, 210, 219);
+}
+.medicines-banner3{
+    background-color: rgb(248, 219, 224);
+}
+.medicine-banner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 10px;
+    
+
+}
+.full-banner1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.full-banner{
+    background-color: rgb(185, 224, 240);
+    margin: 30px 0;
+}
+.text-size{
+    font-size: 13px;
+}
+.lab-input input{
+    width: 200%;
+    
+}
+.test-pic img{
+    border-radius: 50%;
+
+}
+.booking-test{
+    background-color: rgb(224, 240, 245);
+}
+.labtest-add{
+    font-size: 13px;
+    gap: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+.labtest-add div{
+    /* background-color: rgb(246, 246, 247) */
+    background: linear-gradient(to left, rgb(192, 214, 223) , rgb(230, 226, 226));
+}
+.labtest hr{
+    border: none;
+    border: .1px solid black;
+}
+.l-banner a{
+    border: 1px solid black;
+    padding-top:3px;
+    margin-bottom: 12px;
+
+}
+.l-banner .p2{
+    color:green;
+
+}
+.labtest-featured{
+    gap: 20px;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.labtest-heading span{
+    font-size: 13px;
+   
+}
+.labtest-heading p{
+    font-size: 13px;
+    
+}
+.book{
+    background-color: rgb(240, 245, 247);
+}
+
+.book2 p{
+    font-size: 15px;
+}
+
+.para{
+    font-size:15px;
+}
+.how-work{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.how-work p{
+    text-align: center;
+    font-size: 13px;
+}
+.great-section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.great-section1{
+    text-align: center;
+}
+.great-section1 img{
+    padding: 20px 0;
+}
+.great{
+    background-color: rgb(200, 214, 219);
+}
+.surgerie-flex{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+        
+}
+.surgerie-div{
+    gap: 30px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.surgerie-input{
+    width: 35%;
+    /* background-color: aqua; */
+    
+    text-align: center;
+    position: fixed;
+    top: 10%;
+    left: 60%;
+    background: #fff;
+    
+
+}
+.surgerie-input input{
+    width: 100%;
+    
+    margin: 10px 0 ;
+    padding: 15px 10px;
+    
+
+}
+.surgerie-input a{
+    width: 100%;
+    background-color: #0d0d29;
+    color: #fff;
+    font-weight: bold;
+    padding:10px 0;
+}
+.surgerie-input p{
+    font-size: 12px;
+    padding: 10px 0;
+}
+.Surgerie-flex1{
+    width: 40%;
+
+}
+.department{
+    width: 55.5%;
+}
+.department1{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.hospital-img img{
+    width: 55.3%;
+}
+.mini-img img{
+    width: 11%; 
+    
+
+}
+.mini-pic img{
+    width: 50px;
+    padding-right: 10px;
+    
+}
+.hospital-heading p{
+    font-size: 13px;
+    font-weight: 600;
+
+}
+.jeevan-care p{
+    font-size: 12px;
+}
+.jeevan-care{
+    margin-bottom: 40px;
+}
+.para-list{
+    width: 50%;
+    font-size: 12px;
+    
+
+}
+.paragraph{
+    font-size: 13px;
+}
+.button-prblm{
+    display: flex;
+    justify-content: space-between;
+}
+.download h2{
+    margin-top: 100px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+@media(max-width:1000px){
+    .flex-img{
+        flex-wrap: wrap;
+    }
+}
+
+
+
+
+
+@media(max-width:800px){
+    .button-prblm{
+        flex-wrap: wrap;
+    }
+    .footer{
+        flex-wrap: wrap;
+        
+    }
+    .user{
+        flex-wrap: wrap;
+    }
+    
+}
+
+
+
+@media(max-width:400px){
+    
+   .img-prblm img{
+    width: 200px;
+   }
+   .user{
+    flex-wrap: wrap;
+    margin-left: 100px;
+}
+}
+
+
+
+
+
+
+
+
+
+
+/* 
+@media (max-width: 500px){
+    .d-app{
+        flex-wrap: wrap;
+    }
+    .txt-center{
+        text-align: satrt;
+    }
+    .footer{
+        flex-wrap: wrap;
+        
+    }
+    .second-user{
+        flex-wrap: wrap;
+    }
+    .benefit{
+        flex-wrap: wrap;
+    }
+    .work{
+        flex-wrap: wrap;
+    }
+    .main-banner{
+       flex-wrap: wrap;
+        
+    }
+    .user{
+        flex-wrap: wrap;
+        
+    }
+    .labtest-featured{
+        flex-wrap: wrap;
+    }
+    .surgerie-div{
+       flex-wrap: wrap;
+    }
+    .department1{
+      flex-wrap: wrap;
+      
+    }
+    .department{
+        margin: 0 100px;
+    }
+    
+}
+@media (max-width: 700px){
+
+    .department1{
+        flex-wrap: wrap;
+        
+      }
+      .department{
+          margin: 0 100px;
+      }
+
+}
+
+@media (max-width: 900px){
+
+    .department1{
+        flex-wrap: wrap;
+        
+      }
+      .department{
+          margin: 0 100px;
+      }
+
+} */
